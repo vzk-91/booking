@@ -1,0 +1,58 @@
+.status{
+    display: flex;
+    box-sizing: border-box;
+    background-color: white;
+    justify-content: space-around;
+    font-family: Nunito;
+    min-height: 45px;
+    width: 100%;
+}
+
+.status p {
+    text-align: center;
+}
+
+.rooms_content{
+    display: flex;
+    margin: 10px;
+    justify-content: space-between;
+    min-height: 530px;
+}
+.rooms_main{
+    box-sizing: border-box;
+    width: 25%;
+    min-height: 480px;
+    margin-left: 20px;
+}
+
+.room_table{
+    width: 70%;
+    background-color:white;
+    min-height: 50px;
+    box-sizing: border-box;
+}
+.create_room{
+    position: relative;
+    box-sizing: border-box;
+    background-color: #fff;
+    margin: 0 auto 0;
+    width: 100%;
+    color: #495057;
+    min-height: 480px;
+    padding: 7px;
+    box-shadow: 0px 0px 20px rgba(183, 190, 199, 0.25);
+}
+
+.imput_rooms{
+    margin: 20px auto;
+}
+
+.room_info table{
+    width: 90%;
+    margin: 0 auto;
+}
+
+ table {
+    text-align: center;
+}
+

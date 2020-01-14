@@ -1,0 +1,20 @@
+.input_all input {
+    width: 100%;
+    border-radius: 4px;
+    border: 1px solid #757E85;
+    height: 25px;
+    margin: 0 auto;
+}
+
+.input_all{
+    width: 90%;
+    margin: 20px auto;
+    font-family: Nunito;
+}
+
+.input_checkbox{
+    margin: 20px auto;
+    font-family: Nunito;
+    width: 90%;
+    height: 25px;
+}

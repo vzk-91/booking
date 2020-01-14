@@ -1,0 +1,13 @@
+.button_all{
+    position: absolute;
+    width: 96px;
+    height: 23px;
+
+    background: #F8F9FA;
+    border: 1px solid #F8F9FA;
+    box-sizing: border-box;
+    border-radius: 5px;
+    bottom: 20px;
+    right: 20px;
+    color: #757E85;
+}
